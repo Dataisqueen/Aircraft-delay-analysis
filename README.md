@@ -57,12 +57,6 @@ Basing on provided data, excute an analysis of aicraft delays, prepare insights 
   <li> <b>Pandas</b></li>
   <li> <b>Numpy</b></li>
   <li> <b>MatplotLib</b></li>
-  <li> <b>Requests </b></li>
-  <li> <b>json </b></li>
-  <li> <b>time</b></li>
-  <li> <b>csv</b></li>
-  <li> <b>os</b></li>
-
   <li> <b>psycopg2</b></li>
   <li> <b>sqlalchemy</b></li>
 
