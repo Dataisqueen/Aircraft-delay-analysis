@@ -6,7 +6,7 @@ An analysis of aicraft flight delays based on 3 factors:
 - route lenght
 
 <h2> Objective </h2>
-Basing on provided data, excute an analysis of aicraft delays, prepare insights that have business value and prepare a dashboard report for the BI department.
+Basing on data provided by Kaggle [https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations], excute an analysis on aicraft delays, make insights that have business value and prepare a dashboard report for the BI department.
 
 <h2> Notebook contents </h2>
 <p></p>
